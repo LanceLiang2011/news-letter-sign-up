@@ -62,7 +62,6 @@ const Wrapper = styled.div`
   width: 928px;
   height: 641px;
   background: ${COLORS.white};
-  margin: 219px auto;
   box-shadow: 0 15px 60px hsla(0, 0, 0, 0.25);
   border-radius: 36px;
   overflow: hidden;
@@ -150,7 +149,6 @@ const SuccessWrapper = styled(Wrapper)`
   width: 504px;
   height: 520px;
   background: ${COLORS.white};
-  margin: 280px auto;
   border-radius: 36px;
   padding: 64px;
 
