@@ -27,14 +27,6 @@ Users should be able to:
 - Get a success message after submitting a valid email address
 - Dismiss the success message and reset the form to its initial state
 
-### Screenshot
-
-[Here, you should include a screenshot of your completed project]
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
