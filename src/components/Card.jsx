@@ -25,6 +25,7 @@ export default function Card() {
       </Intro>
       <Button
         onClick={() => {
+          setEmailInput("");
           setSuccess(false);
         }}
       >
