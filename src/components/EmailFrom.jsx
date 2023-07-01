@@ -12,7 +12,7 @@ export default function EmailFrom({ setSuccess, emailInput, setEmailInput }) {
       setError(true);
       return;
     }
-
+    setEmailInput("");
     setSuccess(true);
   };
 
